@@ -1,5 +1,5 @@
 # ChessCsharp
-This is a project I did as a homework for a course at my bachelor's degree in university. The AI is a minmax algorithm with varying depth according to the chosen difficulty. Made in 2021.
+This is a project I did as a homework for a course at my bachelor's degree in university. The AI is a minmax algorithm (alpha-beta pruning) with varying depth according to the chosen difficulty. Made in 2021.
 
 Properties:
  - you can choose color, difficulty and amount of time
